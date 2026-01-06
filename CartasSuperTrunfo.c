@@ -57,7 +57,7 @@ int main() {
 
   printf("-----> Cartas cadastradas com sucesso <----- \n");
   printf("abaixo as informações cadastradas \n\n");
-  printf("----------Carta 01---------- \n\n");
+  printf("----------Carta 01------------ \n\n");
   printf("Letra do Estado: %c\n",estado1);
   printf("Codigo do Estado:  %s\n",cod_carta1);
   printf("Nome da Cidade: %s\n",nome_cid1);
@@ -67,7 +67,7 @@ int main() {
   printf("Numero de Pontos Turisticos:  %d\n",num_pontos_turisticos1); 
   printf("--------------------------------------------------------\n\n");
 
-  printf("----------Carta 02---------- \n\n");
+  printf("----------Carta 02------------ \n\n");
  
   printf("Letra do Estado: %c\n",estado2);
   printf("Codigo do Estado:  %s\n",cod_carta2);
